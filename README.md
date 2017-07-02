@@ -2,6 +2,7 @@ Dear Sir/Madam,
 
 # Gale-Shapley-algorithm is an implementation of Gale-Shapley algorithm as an especial solution of stable marriage problem by MATLAB with GUI.
 This implementations are responses to question 1 in a homework (Homework1.pdf) with permission of publicatoin (Permission of publicationpdf).
+
 A brief explanation of each file:
 InputGenerator.m: It provides n * n two random preference lists of men and women in a text file
 GALE_SHAPLEY.m: It gets a text file containing n, and two preference lists (the output of InputGenerator.m) and provides a solution based on GALE-SHAPLEY.
