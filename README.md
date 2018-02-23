@@ -23,3 +23,11 @@ Graduate Research Assistant, Data Science for Healthcare Lab, Wright State Unive
 Ohio Center of Excellence in Knowledge-enabled Computing (kno.e.sis)
 
 Sadeghi.2@wrigh.edu; reza@knoesis.org
+
+
+Mahdieh Zabihimayvan
+
+Graduate Research Assistant, WaCS Lab, Wright State University
+Ohio Center of Excellence in Knowledge-enabled Computing (kno.e.sis)
+
+Zabihimayvan.2@wrigh.edu; mahdieh@knoesis.org
